@@ -1,0 +1,45 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Ignore thumbnails created by windows
+Thumbs.db
+
+# Files build by Visual Studio
+[Dd]ebug*/
+[Rr]elease*/
+x64
+x86
+x32
+.vs
+*.suo
+*.db
+*.user
+*.opendb

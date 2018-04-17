@@ -1,0 +1,381 @@
+	DEBUG:Added callback
+	DEBUG:Added callback
+	INFORMATION:OBJ[0x1] : CREATE DebugReportCallbackEXT object 0x1c46d8f32c0
+	DEBUG:Added callback
+	DEBUG:Added callback
+	INFORMATION:OBJ[0x2] : CREATE PhysicalDevice object 0x1c46dd5f270
+	INFORMATION:OBJ[0x3] : CREATE SurfaceKHR object 0x1
+	DEBUG:Device Extension: VK_KHR_swapchain (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.68
+	DEBUG:Device Extension: VK_KHR_16bit_storage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_bind_memory2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_descriptor_update_template (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_dedicated_allocation (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_get_memory_requirements2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_image_format_list (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_maintenance1 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_maintenance2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_push_descriptor (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_relaxed_block_layout (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_sampler_mirror_clamp_to_edge (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_sampler_ycbcr_conversion (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_shader_draw_parameters (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_storage_buffer_storage_class (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_semaphore (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_semaphore_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_fence (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_fence_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_variable_pointers (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_device_group (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.2
+	DEBUG:Device Extension: VK_KHX_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_semaphore (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_semaphore_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_multiview (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_blend_operation_advanced (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.2
+	DEBUG:Device Extension: VK_EXT_depth_range_unrestricted (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_discard_rectangles (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_post_depth_coverage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_sampler_filter_minmax (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_subgroup_ballot (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_subgroup_vote (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_viewport_index_layer (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_dedicated_allocation (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_fill_rectangle (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_fragment_coverage_to_color (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_framebuffer_mixed_samples (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_glsl_shader (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_clip_space_w_scaling (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_sample_mask_override_coverage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_viewport_array2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_viewport_swizzle (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_geometry_shader_passthrough (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NVX_device_generated_commands (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NVX_multiview_per_view_attributes (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_swapchain (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.68
+	DEBUG:Device Extension: VK_KHR_16bit_storage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_bind_memory2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_descriptor_update_template (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_dedicated_allocation (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_get_memory_requirements2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_image_format_list (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_maintenance1 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_maintenance2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_push_descriptor (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_relaxed_block_layout (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_sampler_mirror_clamp_to_edge (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_sampler_ycbcr_conversion (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_shader_draw_parameters (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_storage_buffer_storage_class (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_semaphore (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_semaphore_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_fence (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_fence_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_variable_pointers (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_device_group (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.2
+	DEBUG:Device Extension: VK_KHX_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_semaphore (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_semaphore_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_multiview (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_blend_operation_advanced (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.2
+	DEBUG:Device Extension: VK_EXT_depth_range_unrestricted (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_discard_rectangles (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_post_depth_coverage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_sampler_filter_minmax (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_subgroup_ballot (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_subgroup_vote (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_viewport_index_layer (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_dedicated_allocation (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_fill_rectangle (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_fragment_coverage_to_color (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_framebuffer_mixed_samples (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_glsl_shader (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_clip_space_w_scaling (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_sample_mask_override_coverage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_viewport_array2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_viewport_swizzle (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_geometry_shader_passthrough (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NVX_device_generated_commands (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NVX_multiview_per_view_attributes (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_swapchain (Unknown) version 0.0.68
+	DEBUG:Device Extension: VK_KHR_16bit_storage (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_bind_memory2 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_descriptor_update_template (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_dedicated_allocation (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_get_memory_requirements2 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_image_format_list (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_maintenance1 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_maintenance2 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_push_descriptor (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_relaxed_block_layout (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_sampler_mirror_clamp_to_edge (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_sampler_ycbcr_conversion (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_shader_draw_parameters (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_storage_buffer_storage_class (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_memory (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_memory_win32 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_semaphore (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_semaphore_win32 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_win32_keyed_mutex (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_fence (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_fence_win32 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_variable_pointers (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_device_group (Unknown) version 0.0.2
+	DEBUG:Device Extension: VK_KHX_external_memory (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_memory_win32 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_semaphore (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_semaphore_win32 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_multiview (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_win32_keyed_mutex (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_blend_operation_advanced (Unknown) version 0.0.2
+	DEBUG:Device Extension: VK_EXT_depth_range_unrestricted (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_discard_rectangles (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_post_depth_coverage (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_sampler_filter_minmax (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_subgroup_ballot (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_subgroup_vote (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_viewport_index_layer (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_dedicated_allocation (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_external_memory (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_external_memory_win32 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_fill_rectangle (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_fragment_coverage_to_color (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_framebuffer_mixed_samples (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_glsl_shader (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_win32_keyed_mutex (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_clip_space_w_scaling (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_sample_mask_override_coverage (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_viewport_array2 (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_viewport_swizzle (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NV_geometry_shader_passthrough (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NVX_device_generated_commands (Unknown) version 0.0.1
+	DEBUG:Device Extension: VK_NVX_multiview_per_view_attributes (Unknown) version 0.0.1
+	DEBUG:Loading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_unique_objects.dll
+	INFORMATION:Inserted device layer VK_LAYER_GOOGLE_unique_objects (C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_unique_objects.dll)
+	DEBUG:Loading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_core_validation.dll
+	INFORMATION:Inserted device layer VK_LAYER_LUNARG_core_validation (C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_core_validation.dll)
+	DEBUG:Loading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_object_tracker.dll
+	INFORMATION:Inserted device layer VK_LAYER_LUNARG_object_tracker (C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_object_tracker.dll)
+	DEBUG:Loading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_parameter_validation.dll
+	INFORMATION:Inserted device layer VK_LAYER_LUNARG_parameter_validation (C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_parameter_validation.dll)
+	DEBUG:Loading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_threading.dll
+	INFORMATION:Inserted device layer VK_LAYER_GOOGLE_threading (C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_threading.dll)
+	DEBUG:Loading layer library C:\WINDOWS\system32\.\nvoglv64.dll
+	INFORMATION:Inserted device layer VK_LAYER_NV_optimus (C:\WINDOWS\system32\.\nvoglv64.dll)
+	DEBUG:Device Extension: VK_KHR_swapchain (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.68
+	DEBUG:Device Extension: VK_KHR_16bit_storage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_bind_memory2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_descriptor_update_template (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_dedicated_allocation (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_get_memory_requirements2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_image_format_list (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_maintenance1 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_maintenance2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_push_descriptor (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_relaxed_block_layout (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_sampler_mirror_clamp_to_edge (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_sampler_ycbcr_conversion (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_shader_draw_parameters (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_storage_buffer_storage_class (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_semaphore (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_semaphore_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_fence (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_external_fence_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHR_variable_pointers (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_device_group (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.2
+	DEBUG:Device Extension: VK_KHX_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_semaphore (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_external_semaphore_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_multiview (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_KHX_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_blend_operation_advanced (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.2
+	DEBUG:Device Extension: VK_EXT_depth_range_unrestricted (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_discard_rectangles (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_post_depth_coverage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_sampler_filter_minmax (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_subgroup_ballot (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_subgroup_vote (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_EXT_shader_viewport_index_layer (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_dedicated_allocation (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_external_memory (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_external_memory_win32 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_fill_rectangle (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_fragment_coverage_to_color (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_framebuffer_mixed_samples (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_glsl_shader (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_win32_keyed_mutex (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_clip_space_w_scaling (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_sample_mask_override_coverage (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_viewport_array2 (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_viewport_swizzle (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NV_geometry_shader_passthrough (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NVX_device_generated_commands (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	DEBUG:Device Extension: VK_NVX_multiview_per_view_attributes (C:\WINDOWS\system32\.\nvoglv64.dll) version 0.0.1
+	INFORMATION:OBJ[0x4] : CREATE Device object 0x1c46dfa1b90
+	INFORMATION:OBJ[0x5] : CREATE VK_DEBUG_REPORT_OBJECT_TYPE_QUEUE_EXT object 0x1c46df284d0
+	INFORMATION:OBJ[0x6] : CREATE CommandPool object 0x2
+	INFORMATION:OBJ[0x7] : CREATE VK_DEBUG_REPORT_OBJECT_TYPE_COMMAND_BUFFER_EXT object 0x1c470e993e8
+	INFORMATION:OBJ[0x8] : CREATE Fence object 0x3
+	INFORMATION:OBJ[0x9] : CREATE RenderPass object 0x4
+	INFORMATION:OBJ[0xa] : CREATE DescriptorPool object 0x5
+	INFORMATION:OBJ[0xb] : CREATE DescriptorSetLayout object 0x6
+	INFORMATION:OBJ[0xc] : CREATE VK_DEBUG_REPORT_OBJECT_TYPE_DESCRIPTOR_SET_EXT object 0x7
+	INFORMATION:OBJ[0xd] : CREATE Sampler object 0x8
+	INFORMATION:OBJ[0xe] : CREATE SwapchainKHR object 0x9
+	INFORMATION:OBJ[0xf] : CREATE SwapchainImage object 0xa
+	INFORMATION:OBJ[0x10] : CREATE SwapchainImage object 0xb
+	INFORMATION:OBJ[0x11] : CREATE SwapchainImage object 0xc
+	INFORMATION:OBJ[0x12] : CREATE ImageView object 0xd
+	INFORMATION:OBJ[0x13] : CREATE ImageView object 0xe
+	INFORMATION:OBJ[0x14] : CREATE ImageView object 0xf
+	INFORMATION:OBJ[0x15] : CREATE Image object 0x10
+	INFORMATION:OBJ[0x16] : CREATE DeviceMemory object 0x11
+	INFORMATION:OBJ[0x17] : CREATE ImageView object 0x12
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].dstAccessMask (0x600) is not supported by dstStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its dstAccessMask member if that bit is not supported by any of the pipeline stages in dstStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01185)
+	INFORMATION:OBJ[0x18] : CREATE Framebuffer object 0x13
+	INFORMATION:OBJ[0x19] : CREATE Framebuffer object 0x14
+	INFORMATION:OBJ[0x1a] : CREATE Framebuffer object 0x15
+	INFORMATION:OBJ[0x1b] : CREATE Semaphore object 0x16
+	INFORMATION:OBJ[0x1c] : CREATE Semaphore object 0x17
+	INFORMATION:OBJ[0x1d] : CREATE VK_DEBUG_REPORT_OBJECT_TYPE_COMMAND_BUFFER_EXT object 0x1c470ed4818
+	INFORMATION:OBJ[0x1e] : CREATE VK_DEBUG_REPORT_OBJECT_TYPE_COMMAND_BUFFER_EXT object 0x1c470ed4e18
+	INFORMATION:OBJ[0x1f] : CREATE VK_DEBUG_REPORT_OBJECT_TYPE_COMMAND_BUFFER_EXT object 0x1c470ed5418
+	INFORMATION:OBJ[0x20] : CREATE Fence object 0x18
+	INFORMATION:OBJ[0x21] : CREATE Fence object 0x19
+	INFORMATION:OBJ[0x22] : CREATE Fence object 0x1a
+	INFORMATION:OBJ[0x23] : CREATE Buffer object 0x1b
+	INFORMATION:OBJ[0x24] : CREATE DeviceMemory object 0x1c
+	INFORMATION:OBJ[0x25] : CREATE Buffer object 0x1d
+	INFORMATION:OBJ[0x26] : CREATE DeviceMemory object 0x1e
+	INFORMATION:OBJ[0x27] : CREATE Buffer object 0x1f
+	INFORMATION:OBJ[0x28] : CREATE DeviceMemory object 0x20
+	INFORMATION:OBJ[0x29] : CREATE Buffer object 0x21
+	INFORMATION:OBJ[0x2a] : CREATE DeviceMemory object 0x22
+	INFORMATION:OBJ[0x2b] : CREATE Buffer object 0x23
+	INFORMATION:OBJ[0x2c] : CREATE DeviceMemory object 0x24
+	INFORMATION:OBJ[0x2d] : CREATE Buffer object 0x25
+	INFORMATION:OBJ[0x2e] : CREATE DeviceMemory object 0x26
+	INFORMATION:OBJ[0x2f] : CREATE Image object 0x27
+	INFORMATION:OBJ[0x30] : CREATE DeviceMemory object 0x28
+	INFORMATION:OBJ[0x31] : CREATE ImageView object 0x29
+	INFORMATION:OBJ[0x32] : CREATE Image object 0x2a
+	INFORMATION:OBJ[0x33] : CREATE DeviceMemory object 0x2b
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].srcAccessMask (0x4000) is not supported by srcStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its srcAccessMask member if that bit is not supported by any of the pipeline stages in srcStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01184)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].dstAccessMask (0x1000) is not supported by dstStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its dstAccessMask member if that bit is not supported by any of the pipeline stages in dstStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01185)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].srcAccessMask (0x4000) is not supported by srcStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its srcAccessMask member if that bit is not supported by any of the pipeline stages in srcStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01184)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].dstAccessMask (0x800) is not supported by dstStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its dstAccessMask member if that bit is not supported by any of the pipeline stages in dstStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01185)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].srcAccessMask (0x1000) is not supported by srcStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its srcAccessMask member if that bit is not supported by any of the pipeline stages in srcStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01184)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].dstAccessMask (0x20) is not supported by dstStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its dstAccessMask member if that bit is not supported by any of the pipeline stages in dstStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01185)
+	INFORMATION:OBJ_STAT Destroy Image obj 0x2a (43 total objs remain & 2 Image objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x2b (42 total objs remain & 8 DeviceMemory objs).
+	INFORMATION:OBJ[0x34] : CREATE Image object 0x2c
+	INFORMATION:OBJ[0x35] : CREATE DeviceMemory object 0x2d
+	INFORMATION:OBJ[0x36] : CREATE ImageView object 0x2e
+	INFORMATION:OBJ[0x37] : CREATE Image object 0x2f
+	INFORMATION:OBJ[0x38] : CREATE DeviceMemory object 0x30
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].srcAccessMask (0x4000) is not supported by srcStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its srcAccessMask member if that bit is not supported by any of the pipeline stages in srcStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01184)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].dstAccessMask (0x1000) is not supported by dstStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its dstAccessMask member if that bit is not supported by any of the pipeline stages in dstStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01185)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].srcAccessMask (0x4000) is not supported by srcStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its srcAccessMask member if that bit is not supported by any of the pipeline stages in srcStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01184)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].dstAccessMask (0x800) is not supported by dstStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its dstAccessMask member if that bit is not supported by any of the pipeline stages in dstStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01185)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].srcAccessMask (0x1000) is not supported by srcStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its srcAccessMask member if that bit is not supported by any of the pipeline stages in srcStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01184)
+ERROR:vkCmdPipelineBarrier(): pImageMemBarriers[0].dstAccessMask (0x20) is not supported by dstStageMask (0x1). The spec valid usage text states 'Each element of pMemoryBarriers, pBufferMemoryBarriers and pImageMemoryBarriers must not have any access flag included in its dstAccessMask member if that bit is not supported by any of the pipeline stages in dstStageMask, as specified in the table of supported access types.' (https://www.khronos.org/registry/vulkan/specs/1.0/html/vkspec.html#VUID-vkCmdPipelineBarrier-pMemoryBarriers-01185)
+	INFORMATION:OBJ_STAT Destroy Image obj 0x2f (46 total objs remain & 3 Image objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x30 (45 total objs remain & 9 DeviceMemory objs).
+	INFORMATION:OBJ[0x39] : CREATE Buffer object 0x31
+	INFORMATION:OBJ[0x3a] : CREATE DeviceMemory object 0x32
+	INFORMATION:OBJ[0x3b] : CREATE Buffer object 0x33
+	INFORMATION:OBJ[0x3c] : CREATE DeviceMemory object 0x34
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x33 (48 total objs remain & 7 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x34 (47 total objs remain & 10 DeviceMemory objs).
+	INFORMATION:OBJ[0x3d] : CREATE Buffer object 0x35
+	INFORMATION:OBJ[0x3e] : CREATE DeviceMemory object 0x36
+	INFORMATION:OBJ[0x3f] : CREATE Buffer object 0x37
+	INFORMATION:OBJ[0x40] : CREATE DeviceMemory object 0x38
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x37 (50 total objs remain & 8 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x38 (49 total objs remain & 11 DeviceMemory objs).
+	INFORMATION:OBJ[0x41] : CREATE ShaderModule object 0x39
+	INFORMATION:OBJ[0x42] : CREATE ShaderModule object 0x3a
+	INFORMATION:OBJ[0x43] : CREATE PipelineLayout object 0x3b
+ERROR:vkCreateGraphicsPipelines parameter, VkPolygonMode pCreateInfos->pRasterizationState->polygonMode cannot be VK_POLYGON_MODE_POINT or VK_POLYGON_MODE_LINE if VkPhysicalDeviceFeatures->fillModeNonSolid is false.
+	INFORMATION:OBJ[0x44] : CREATE Pipeline object 0x3c
+	INFORMATION:OBJ[0x45] : CREATE Pipeline object 0x3d
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x35 (53 total objs remain & 7 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x36 (52 total objs remain & 10 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x31 (51 total objs remain & 6 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x32 (50 total objs remain & 9 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy ImageView obj 0x29 (49 total objs remain & 5 ImageView objs).
+	INFORMATION:OBJ_STAT Destroy Image obj 0x27 (48 total objs remain & 2 Image objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x28 (47 total objs remain & 8 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy ImageView obj 0x2e (46 total objs remain & 4 ImageView objs).
+	INFORMATION:OBJ_STAT Destroy Image obj 0x2c (45 total objs remain & 1 Image objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x2d (44 total objs remain & 7 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy ShaderModule obj 0x39 (43 total objs remain & 1 ShaderModule objs).
+	INFORMATION:OBJ_STAT Destroy ShaderModule obj 0x3a (42 total objs remain & 0 ShaderModule objs).
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x23 (41 total objs remain & 5 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x24 (40 total objs remain & 6 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x25 (39 total objs remain & 4 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x26 (38 total objs remain & 5 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x1f (37 total objs remain & 3 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x20 (36 total objs remain & 4 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x21 (35 total objs remain & 2 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x22 (34 total objs remain & 3 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x1b (33 total objs remain & 1 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x1c (32 total objs remain & 2 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy Buffer obj 0x1d (31 total objs remain & 0 Buffer objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x1e (30 total objs remain & 1 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy Pipeline obj 0x3c (29 total objs remain & 1 Pipeline objs).
+	INFORMATION:OBJ_STAT Destroy Pipeline obj 0x3d (28 total objs remain & 0 Pipeline objs).
+	INFORMATION:OBJ_STAT Destroy PipelineLayout obj 0x3b (27 total objs remain & 0 PipelineLayout objs).
+	INFORMATION:OBJ_STAT Destroy DescriptorSetLayout obj 0x6 (26 total objs remain & 0 DescriptorSetLayout objs).
+	INFORMATION:OBJ_STAT Destroy Fence obj 0x18 (25 total objs remain & 3 Fence objs).
+	INFORMATION:OBJ_STAT Destroy Fence obj 0x19 (24 total objs remain & 2 Fence objs).
+	INFORMATION:OBJ_STAT Destroy Fence obj 0x1a (23 total objs remain & 1 Fence objs).
+	INFORMATION:OBJ_STAT Destroy Semaphore obj 0x16 (22 total objs remain & 1 Semaphore objs).
+	INFORMATION:OBJ_STAT Destroy Semaphore obj 0x17 (21 total objs remain & 0 Semaphore objs).
+	INFORMATION:OBJ_STAT Destroy Framebuffer obj 0x13 (20 total objs remain & 2 Framebuffer objs).
+	INFORMATION:OBJ_STAT Destroy Framebuffer obj 0x14 (19 total objs remain & 1 Framebuffer objs).
+	INFORMATION:OBJ_STAT Destroy Framebuffer obj 0x15 (18 total objs remain & 0 Framebuffer objs).
+	INFORMATION:OBJ_STAT Destroy ImageView obj 0xd (17 total objs remain & 3 ImageView objs).
+	INFORMATION:OBJ_STAT Destroy ImageView obj 0xe (16 total objs remain & 2 ImageView objs).
+	INFORMATION:OBJ_STAT Destroy ImageView obj 0xf (15 total objs remain & 1 ImageView objs).
+	INFORMATION:OBJ_STAT Destroy SwapchainKHR obj 0x9 (14 total objs remain & 0 SwapchainKHR objs).
+	INFORMATION:OBJ_STAT Destroy ImageView obj 0x12 (13 total objs remain & 0 ImageView objs).
+	INFORMATION:OBJ_STAT Destroy Image obj 0x10 (12 total objs remain & 0 Image objs).
+	INFORMATION:OBJ_STAT Destroy DeviceMemory obj 0x11 (11 total objs remain & 0 DeviceMemory objs).
+	INFORMATION:OBJ_STAT Destroy Sampler obj 0x8 (10 total objs remain & 0 Sampler objs).
+	INFORMATION:OBJ_STAT Destroy DescriptorSet obj 0x7 (9 total objs remain & 0 DescriptorSet objs).
+	INFORMATION:OBJ_STAT Destroy DescriptorPool obj 0x5 (8 total objs remain & 0 DescriptorPool objs).
+	INFORMATION:OBJ_STAT Destroy Fence obj 0x3 (7 total objs remain & 0 Fence objs).
+	INFORMATION:OBJ_STAT Destroy RenderPass obj 0x4 (6 total objs remain & 0 RenderPass objs).
+	INFORMATION:OBJ_STAT Destroy CommandBuffer obj 0x1c470e993e8 (5 total objs remain & 3 CommandBuffer objs).
+	INFORMATION:OBJ_STAT Destroy CommandBuffer obj 0x1c470ed4818 (4 total objs remain & 2 CommandBuffer objs).
+	INFORMATION:OBJ_STAT Destroy CommandBuffer obj 0x1c470ed4e18 (3 total objs remain & 1 CommandBuffer objs).
+	INFORMATION:OBJ_STAT Destroy CommandBuffer obj 0x1c470ed5418 (2 total objs remain & 0 CommandBuffer objs).
+	INFORMATION:OBJ_STAT Destroy CommandPool obj 0x2 (1 total objs remain & 0 CommandPool objs).
+	INFORMATION:OBJ_STAT Destroy Device obj 0x1c46dfa1b90 (4 total objs remain & 0 Device objs).
+	INFORMATION:OBJ_STAT Destroy Queue obj 0x1c46df284d0 (0 total objs remain & 0 Queue objs).
+	DEBUG:Unloading layer library C:\WINDOWS\system32\.\nvoglv64.dll
+	DEBUG:Unloading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_threading.dll
+	DEBUG:Unloading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_parameter_validation.dll
+	DEBUG:Unloading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_object_tracker.dll
+	DEBUG:Unloading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_core_validation.dll
+	DEBUG:Unloading layer library C:\VulkanSDK\1.0.68.0\Bin\.\VkLayer_unique_objects.dll
+	INFORMATION:OBJ_STAT Destroy SurfaceKHR obj 0x1 (3 total objs remain & 0 SurfaceKHR objs).
